@@ -14,3 +14,12 @@ Oh and this is all hardware (it's me afterall, I love me some PCBs), so for firm
 This is the one I started with, seemed like a good candidate with it's generous decoupling and refrence designators.
 
 TODO: nice write-up. For now check out [this thread](https://fosstodon.org/@aleksorsist/113495151019157816) and [this thread](https://fosstodon.org/@aleksorsist/113505931062014911) for some quick quips and pretty pictures.
+
+
+## TBT 3 Support
+
+It doesn't? But it should? Wtf is going on
+
+## No more Mr. Nice Guy
+
+Ok, I am no longer cleanroom reverse engineering this thing, I am now on a quest to figure out why this accursed thing doesn't work
