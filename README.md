@@ -23,3 +23,7 @@ It doesn't? But it should? Wtf is going on
 ## No more Mr. Nice Guy
 
 Ok, I am no longer cleanroom reverse engineering this thing, I am now on a quest to figure out why this accursed thing doesn't work
+
+## It's not a problem I can solve board-level, it's just cursed down to the silicon
+
+After a lot of searching, this chip will just not work with older TBT3 hosts. Since compatibility is already hard enough with pcie tunneling, I've decided not to pursue this chip for ThunderScope. I'll keep the repo up, but I don't plan on doing more work on it. It was good practice to eventually tackle the JHL9000 series for TBT5 - that'll be a lot of fun. 
